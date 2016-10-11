@@ -1,0 +1,15 @@
+{
+    "name": "hb-proxy",
+    "version": "0.0.1",
+    "description": "Houbank frontend request proxy",
+    "author": "2046",
+    "license": "MIT",
+    "dependencies": {
+        "koa": "^1.2.4",
+        "chalk": "^1.1.3",
+        "koa-proxy": "^0.6.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
